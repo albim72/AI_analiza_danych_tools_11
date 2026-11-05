@@ -1,0 +1,12 @@
+przygotuj plik Pythona z mechanizmem tworzenia danych syntetycznych i zapisywania ich w pliku CSV.
+następujące pola:
+n = 5000000
+id: od 1 do n
+nazwa: produkty z obszaru elektroniki i AGD
+ilość sztuk: od 1 do 35
+cena netto: od 1 do 35000 -ceny dobierz adekwatnie do klasy produktu
+kolor: czerwony - 25%, zielony - -25%, czarny - 20%,  żółty  10%, inne  - pozostałe
+miasto - miasta w Polsce - wykorzystaj bibliotekę Faker
+województwo - wykorzystaj bibliotekę Faker
+Dodaj dwa dodatkowe wybrane przez siebie pola - pasujące do tych danycch
+wystaw plik py do pobrania
