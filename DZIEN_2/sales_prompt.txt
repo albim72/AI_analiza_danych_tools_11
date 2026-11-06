@@ -1,0 +1,17 @@
+Przygotowuję raport rentowności w Power BI Desktop.
+
+Sprawdź załączony sales.csv, wykonując obliczenia w Pythonie.
+Jeden wiersz oznacza pozycję zamówienia.
+net to przychód całej pozycji po rabacie, a cost to jej koszt.
+Kwoty są w PLN.
+
+1. Podaj liczbę wierszy i sprawdź braki danych.
+2. Policz przychód, koszt, marżę kwotową i marżę procentową
+   łącznie oraz według regionu.
+3. Marża procentowa = suma marży / suma przychodu.
+   Nie obliczaj średniej procentów z poszczególnych wierszy.
+4. Zaproponuj miary DAX dla tabeli o nazwie Sales.
+5. Wyjaśnij, jakie wizualizacje pomogą porównać regiony.
+
+Pokaż wyniki kontrolne i kod obliczeń.
+Jeśli nie możesz wykonać kodu, powiedz to wprost.
